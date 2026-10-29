@@ -1,3 +1,11 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-blue.svg)]()
+[![Dependencies](https://img.shields.io/badge/Dependencies-none-brightgreen.svg)]()
+[![Lighthouse](https://img.shields.io/badge/Lighthouse-100%2F100-green.svg)]()
+[![Minified Size](https://img.shields.io/badge/Minified-4.2%20KB-blue.svg)]()
+[![Status](https://img.shields.io/badge/Status-Stable-brightgreen.svg)]()
+[![Version](https://img.shields.io/badge/Version-4.0.0-blue.svg)]()
+
 # Madjeek Image Optimizer
 
 A lightweight, adaptive, and automatic JavaScript image optimizer designed for webmasters. 
