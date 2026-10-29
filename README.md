@@ -41,21 +41,18 @@ The script exposes a global object MadjeekImageOptimizer for debugging purposes.
 
 View status of all images:
 
-javascript
 MadjeekImageOptimizer.debug();
 Analyze a specific image:
 
-javascript
 const img = document.querySelector('img');
 MadjeekImageOptimizer.analyze(img);
 Force re-optimization of all images:
 
-javascript
 MadjeekImageOptimizer.optimize();
 📄 License
 This project is licensed under the MIT License.
 
-Copyright (c) 2024 Madjeek
+Copyright (c) 2026 Madjeek
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
