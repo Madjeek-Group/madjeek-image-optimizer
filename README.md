@@ -33,23 +33,29 @@ Based on the screen width, the script applies the following logic:
 
 ```html
 <script src="/path/to/madjeek-image-optimizer.js"></script>
+```
 
 Or inline it directly inside a <script> tag.
 
 Console Commands
 The script exposes a global object MadjeekImageOptimizer for debugging purposes. Open the browser console (F12) to use it:
 
+
 View status of all images:
-
+```javascript
 MadjeekImageOptimizer.debug();
-Analyze a specific image:
+```
 
+Analyze a specific image:
+```javascript
 const img = document.querySelector('img');
 MadjeekImageOptimizer.analyze(img);
+```
+
 Force re-optimization of all images:
-
+```javascript
 MadjeekImageOptimizer.optimize();
-
+```
 
 
 License
