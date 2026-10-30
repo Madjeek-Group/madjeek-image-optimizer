@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/madjeek-web/visitorlens-pro/raw/main/visitor_lens_pro_cover_01.png" alt="Visitor Lens cover 1 png image" width="100%" height="100%">
+<img src="https://github.com/Madjeek-Group/madjeek-image-optimizer/raw/main/madjeek-image-optimizer-js.jpg" alt="madjeek image optimizer js cover" width="100%" height="100%">
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
