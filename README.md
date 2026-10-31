@@ -14,7 +14,7 @@
 
 A lightweight, adaptive, and automatic JavaScript image optimizer designed for webmasters. 
 
-This script dynamically modifies image URLs to load them at the optimal size based on the user's screen resolution. It significantly improves Lighthouse performance scores and loading times without sacrificing image quality on high-resolution screens (4K/Retina).
+This script dynamically modifies image URLs to load them at the optimal size based on the user's screen resolution. It significantly improves Lighthouse performance scores and loading times without sacrificing image quality on high-resolution screens (4K/Retina)
 
 ## Features
 
